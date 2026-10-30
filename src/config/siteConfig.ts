@@ -88,7 +88,7 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 		style: "dual",
 	},
 	favicon: [
-		{ src: "https://raw.githubusercontent.com/tsai97216/chi-design-system/main/logo/gray-w.png" },
+		{ src: "https://raw.githubusercontent.com/47tsai/chi-design-system/main/logo/gray-w.png" },
 	],
 });
 

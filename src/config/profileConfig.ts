@@ -13,7 +13,7 @@ export const profileConfig: ProfileConfig = withUserConfig("profile", {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/tsai97216",
+			url: "https://github.com/47tsai",
 		},
 	],
 });

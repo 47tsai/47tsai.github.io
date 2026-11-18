@@ -87,9 +87,7 @@ export const siteConfig: SiteConfig = withUserConfig("site", {
 	progressIndicator: {
 		style: "dual",
 	},
-	favicon: [
-		{ src: "https://raw.githubusercontent.com/47tsai/chi-design-system/main/logo/gray-w.png" },
-	],
+	favicon: [],
 });
 
 export function resolveTextureOptions(
